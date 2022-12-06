@@ -1,6 +1,6 @@
 
 Hi there!
-I'm a jr front-end developer
+Currently working as a jr front-end developer but developing my skills in the area of quality assurance
 
 
  <div>
