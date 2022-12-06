@@ -1,6 +1,6 @@
 
-Hi there!
-Currently working as a jr front-end developer but developing my skills in the area of quality assurance
+Hi there! <br/>
+Currently working as a jr front-end developer and developing skills in the field of quality assurance
 
 
  <div>
