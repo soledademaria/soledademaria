@@ -1,7 +1,7 @@
 
 <h2> Olá, eu sou a Maria Soledade! :blush: </h2>
 
-Graduanda em Análise e Desenvolvimento de Sistemas, trabalho como desenvolvedora front-end a um ano e meio, e durante essa jornada desenvolvi interesse na área de Testes e Qualidade de Software. Atualmente me encontro em migração de carreira para essa área. 
+Graduanda em Análise e Desenvolvimento de Sistemas, trabalho como desenvolvedora front-end a um ano e meio, e durante essa jornada desenvolvi interesse pela área de Testes e Qualidade de Software. Atualmente me encontro em migração de carreira para essa área. 
 
 <h3> Skills </h3> 
  <div style="display: inline_block"><br>
