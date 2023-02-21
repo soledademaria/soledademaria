@@ -1,21 +1,17 @@
 
-Hi there! <br/>
-Currently working as a jr front-end developer and developing skills in the field of quality assurance
+<h2> Olá, eu sou a Maria Soledade! :blush: </h2>
 
+Graduanda em Análise e Desenvolvimento de Sistemas, trabalho como desenvolvedora front-end a um ano e meio, e durante essa jornada desenvolvi interesse na área de Testes e Qualidade de Software. Atualmente me encontro em migração de carreira para essa área. 
 
- <div>
-  <a href="https://github.com/soledademaria">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=soledademaria&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
- 
-</div>
-
-
+<h3> Skills </h3> 
  <div style="display: inline_block"><br>
-  <img align="center" alt="Maria-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Maria-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-    <img align="center" alt="Maria-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg">
-   
-  <img align="center" alt="Maria-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Maria-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"> 
+  <img align="center" alt="Maria-Js" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
+  <img align="center" alt="Maria-Ts" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
+  <img align="center" alt="Maria-CSS" src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D"> <br/>
+ <br/>
+ <img align="center" alt="Maria-CSS" src="https://img.shields.io/badge/Miro-F7C922?style=for-the-badge&logo=Miro&logoColor=050036">
+  <img align="center" alt="Maria-CSS" src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white">
+ <img align="center" alt="Maria-CSS" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white">
+ 
 </div>
  
